@@ -1,4 +1,4 @@
-## Objectives
+ss## Objectives
 
   1. Understand the concept of AR Lifecycle methods
   2. Use `before_save`, `before_create`, and `before_validation`
